@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ESTO ES UN COMENTARIO-->
+<Cartelera>  
+    <Pelicula>
+        <codigo> 0001</codigo>
+        <titulo>avatar</titulo>
+        <year>1999</year>
+        <duracion>
+            <horas>15:00</horas>
+            <minutos>120</minutos>
+            <segundos>30</segundos>
+        </duracion>
+        <nacionalidad>Ecuatoriano</nacionalidad>
+        <genero>Accion</genero>
+        <clasificacion>A</clasificacion>
+        <direcctor>
+            <nombre>Alfonso</nombre>
+            <apellido>Heredia</apellido>
+            <FechaN>
+                <years>1999</years>
+                <mes>junio</mes>
+                <dia>05</dia>
+            </FechaN>
+        </direcctor>
+        <reparto>
+            <ActorP>
+                <nombreO>Patch Adams</nombreO>
+                <nombreP>el Azul</nombreP>
+            </ActorP>
+            <ActorS>
+                <nombreO>Evelin Pila</nombreO>
+                <nombreP>la azul</nombreP>
+            </ActorS>
+            <Doble>
+                <nombreO>Alf Heredeia</nombreO>
+                <sustituye>Patch Adams</sustituye>
+            </Doble>
+        </reparto>
+        <sinopsis>
+            en un planeta lejano viven personas azulesy muchas criaturas mas
+        </sinopsis>
+    
+   
+        
+    </Pelicula>
+</Cartelera>
